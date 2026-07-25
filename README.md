@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm M. Ridho Adha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Frontend+Developer;Information+System+student;JavaScript+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ##  About Me
-- 🎓 Information Systems Student at **Institut Teknologi Rokan Hilir**
+- 🎓 Information Systems Student at **Institute Technologi Rokan Hilir**
 - 💻 Passionate about **Frontend Development**
 - 🌱 Currently learning **React, Tailwind CSS, and Vue.js**
 - 🚀 Building modern and responsive web applications
@@ -13,8 +13,8 @@
 
 ## Language and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" height="35" />
-   <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,github,vscode" height="35" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,figma" height="35" />
+   <img src="https://skillicons.dev/icons?i=php,mysql" height="35" />
 </p>
 
 ## 📫 Connect With Me
