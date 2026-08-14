@@ -16,5 +16,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,vite,tailwind" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,tailwind,bootstrap,nodejs,mysql,mongodb,git,github,vscode,figma,postman" />
+</p>
+
 ## 📫 Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mridhoadha25@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ridho_adha6)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/ridho.adha.226418)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6281234567890)
