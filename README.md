@@ -11,13 +11,8 @@
 - 🚀 Building modern and responsive web applications
 - 🎯 Goal: Become a Professional Frontend Engineer
 
-## 🚀 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,vite,tailwind" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,tailwind,bootstrap,nodejs,mysql,mongodb,git,github,vscode,figma,postman" />
 </p>
 
 ## 📫 Connect With Me
