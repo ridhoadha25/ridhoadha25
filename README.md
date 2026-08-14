@@ -13,7 +13,7 @@
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,vite,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,vite,tailwind" />
 </p>
 
 ## 📫 Connect With Me
