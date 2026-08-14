@@ -12,7 +12,7 @@
 - 🎯 Goal: Become a Professional Frontend Engineer
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,mysql,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind" />
 </p>
 
 ## 📫 Connect With Me
