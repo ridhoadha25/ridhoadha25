@@ -10,7 +10,7 @@
 - 🌱 Currently learning **React, Tailwind CSS, and Vue.js**
 - 🎯 Goal: Become a Professional Frontend Engineer
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" title="HTML5" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" title="CSS3" />
