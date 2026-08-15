@@ -12,7 +12,13 @@
 - 🎯 Goal: Become a Professional Frontend Engineer
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logoColor=white" />
 </p>
 
 ## 📫 Connect With Me
