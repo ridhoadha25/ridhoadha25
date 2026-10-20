@@ -29,12 +29,6 @@ I'm an Information Systems student who enjoys building modern, responsive, and u
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-🚀 Featured Projects
-<!-- Replace these examples with links to your actual repositories. -->
-
-- TeknoCare — A web application concept for technology repair services.
-- Portfolio Website — A personal portfolio to showcase skills and projects.
-- Task Management App — A web app concept for organizing daily tasks.
 📊 GitHub Stats
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhoadha25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
