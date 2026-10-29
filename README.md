@@ -1,15 +1,15 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+M.+Ridho+Adha;Web+Developer;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+M.+Ridho+Adha;Fullstack+Developer;Ui+Designer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-💻 Web Developer | Frontend Developer
+💻 Fullstack Developer | UI Designer
 I'm an Information Systems student who enjoys building modern, responsive, and user-friendly web applications.
 - 🌱 Currently learning and improving my web development skills
-- 🎨 Interested in Frontend Development and UI/UX Design
+- 🌐 Interested in Web Development and UI/UX Design
 - 💡 Always excited to learn new technologies and build useful projects
 </div>
 
